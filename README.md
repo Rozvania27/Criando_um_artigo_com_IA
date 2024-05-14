@@ -1,6 +1,7 @@
 # Projeto artigo técnico gerado por IAs
 ℹ️ NOTA: Este é o repositório desenvolvido durante o curso "Criando Artigos Técnicos com ChatGPT" e Lexica.art plataforma da [DIO](https://www.dio.me/sign-up?ref=ALGFTPFT4A).
 
+![Artigo](https://github.com/Rozvania27/Criando_um_artigo_com_IA/blob/main/imagens_artigo/Capa_artigo.png)
 
 
 📕[Clique aqui para ler o artigo](https://web.dio.me/articles/estrategias-praticas-para-alavancar-sua-jornada-em-data-science?back=%2Farticles&page=1&order=oldest)
